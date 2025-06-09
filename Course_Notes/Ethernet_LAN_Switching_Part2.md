@@ -115,9 +115,11 @@ SW1# clear mac address-table dynamic <optional MAC address>
 
 // clears the entire switches MAC table.
 // IF the optional address + [MAC address] is used, it will clear the SPECFIC MAC address.
+
 E.g.: clear mac address-table dynamic **address** 0c2f.b011.9d00
 
 SW1 #clear mac address-table dynamic interface <optional Interface>
 
 // clears the MAC table entry of the Switch by it's **INTERFACE n**ame.
+
 E.g.: clear mac address-table dynamic **interface** Gi0/0
