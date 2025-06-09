@@ -58,6 +58,7 @@ TYPE / LENGTH
 - A value of **1536 or greater** in this field indicates the TYPE of the encapsulated packet and length is determined via other methods.
 - IPv4 = 0x0800 (hexadecimal) = 2048 in decimal
 - IPv6 = 0x86DD (hexadecimal) = 34525 in decimal
+- ARP  = 0x0806 (hexadecimal)
 - Layer 3 protocol used in the encapsulated Packet, which is almost always Internet Protocol (IP) version 4 or version 6.
 
 ---
