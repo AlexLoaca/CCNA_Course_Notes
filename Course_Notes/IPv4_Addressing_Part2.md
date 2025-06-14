@@ -202,7 +202,7 @@ Example:
 
 R1(config) #int g0/0
 
-R1(config) #description ## to SW1 ##
+R1(config-if) #description ## to SW1 ##
 
 This sets the 'Description' column to display:
 
