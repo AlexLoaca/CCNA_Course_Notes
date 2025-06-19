@@ -56,8 +56,8 @@ INTERNET HEADER LENGTH (IHL):
 - The MINIMUM value is 5 (5 * 4-bytes = 20 bytes) - Empty OPTIONS Field
 - The MAXIMUM value is 15 (15 * 4-bytes = 60 bytes)
 
-MINIMUM IPv4 HEADER LENGTH = 20 Bytes!<br>
-MAXIMUM IPv4 HEADER LENGTH = 60 Bytes!<br>
+MINIMUM IPv4 HEADER LENGTH   = 20 Bytes!<br>
+MAXIMUM IPv4 HEADER LENGTH   = 60 Bytes!<br>
 MAXIMUM LENGTH OF IP OPTIONS = 40 Bytes!
 
 ---
